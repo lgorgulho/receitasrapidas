@@ -1,0 +1,171 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Receitas Rápidas",
+    "description": "",
+    "home_page_url": "https://github.com/lgorgulho/receitasrapidas",
+    "feed_url": "https://github.com/lgorgulho/receitasrapidas/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Receitas Rápidas"
+    },
+    "items": [
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/vouchers-restaurante/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/vouchers-restaurante/",
+            "title": "Vouchers Restaurante",
+            "summary": " var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Blog'; var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Blog'; ",
+            "content_html": "<p><script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Blog';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/1054/21573\"></script></p>\n<p><script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Blog';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/1054/20610\"></script></p>\n",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+            ],
+            "date_published": "2014-05-13T08:09:26+01:00",
+            "date_modified": "2020-04-22T01:37:06+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/vouchers-portugal/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/vouchers-portugal/",
+            "title": "Vouchers Portugal",
+            "summary": "Lista de Vouchers apenas para Portugal! var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Receitas-Site-Sapatos'; var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Receitas-Site-Gasolina'; var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Receitas-Site-Op-Super'; var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Receitas-Site-Op-Gasol'; var netlucro_width=336; var netlucro_height=280; var netlucro_afi_kw='Landing-Receitas-Site-Vale50Eu'; ",
+            "content_html": "<p>Lista de Vouchers apenas para Portugal!<br />\n<script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Receitas-Site-Sapatos';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/758/23351\"></script></p>\n<p><script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Receitas-Site-Gasolina';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/758/21581\"></script></p>\n<p><script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Receitas-Site-Op-Super';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/758/20005\"></script></p>\n<p><script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Receitas-Site-Op-Gasol';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/758/12928\"></script></p>\n<p><script type=\"text/javascript\"><br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Receitas-Site-Vale50Eu';<br />\n</script><br />\n<script type=\"text/javascript\" src=\"http://nucleo.netlucro.com/ad/17239/758/12939\"></script></p>\n",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+            ],
+            "date_published": "2014-05-09T08:15:15+01:00",
+            "date_modified": "2020-04-22T01:37:06+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/livro-de-receitas/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/livro-de-receitas/",
+            "title": "Livro de Receitas",
+            "summary": "Livro de Receitas grátis para Portugal! Para receber o livro de receitas grátis, clique na imagem ou então aqui.",
+            "content_html": "<p>Livro de Receitas grátis para Portugal!</p>\n<p><script>// <![CDATA[<br />\nvar netlucro_width=336;<br />\nvar netlucro_height=280;<br />\nvar netlucro_afi_kw='Landing-Page-Imagem336x280';<br />\n// ]]></script><br />\n<script src=\"http://nucleo.netlucro.com/ad/17239/940/20960\"></script></p>\n<p>Para receber o livro de receitas grátis, clique na imagem ou então <a title=\"Livro de Receitas Grátis\" href=\"http://nucleo.netlucro.com/clique/17239/940/?afi_kw=LandingPage-Link\" target=\"_blank\">aqui</a>.</p>\n",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+            ],
+            "date_published": "2014-05-08T08:04:03+01:00",
+            "date_modified": "2020-04-22T01:37:06+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/chocolate-cremoso/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/chocolate-cremoso/",
+            "title": "Chocolate Cremoso",
+            "summary": " Chocolate Cremoso 1 Danete; 1 Toddynho ou similar; Coloque o danete em uma xícara grande, adicione um todinho, aqueça no microondas por 1,30minutos. Se preferir adicione mais danete e ficará ainda mais cremoso, mas esta proporção 1×1 é muito boa. Está pronta a delícia&hellip;",
+            "content_html": "<p><a title=\"chocolate\" href=\"https://github.com/lgorgulho/receitasrapidas/media/posts/406/chocolate.gif\"><img class=\"attachment-large \" title=\"Chocolate Cremoso\" alt=\"Chocolate Cremoso\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/406/chocolate.gif\" width=\"245\" height=\"300\" /></a> Chocolate Cremoso</p>\n<p>1 Danete;<br />\n1 Toddynho ou similar;</p>\n<p>Coloque o danete em uma xícara grande, adicione um todinho, aqueça no microondas por 1,30minutos.</p>\n<p>Se preferir adicione mais danete e ficará ainda mais cremoso, mas esta proporção 1×1 é muito boa.</p>\n<p>Está pronta a delícia para aquecer o inverno.</p>\n",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Receitas de Chocolate"
+            ],
+            "date_published": "2013-06-07T13:15:50+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/frango/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/frango/",
+            "title": "Frango",
+            "summary": " Frango O Frango é uma das carnes mais saudavéis para se cozinhar. Ideal para pessoas em manutenção de peso ou até mesmo dietas, é uma carne branca com baixo teor de gorduras. O Frango é uma fonte de diversas substâncias fundamentais para a boa&hellip;",
+            "content_html": "<p><a href=\"http://www.receitasrapidas.com/ingredientes/frango/attachment/frango/\" rel=\"attachment wp-att-1740\"><img class=\"size-medium wp-image-1740\" alt=\"Frango\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/405/frango-300x225.jpg\" width=\"300\" height=\"225\" /></a> Frango</p>\n<p>O <strong>Frango</strong> é uma das carnes mais saudavéis para se <strong>cozinhar</strong>. Ideal para pessoas em manutenção de peso ou até mesmo <strong>dietas</strong>, é uma carne branca com <strong>baixo teor de gorduras</strong>.</p>\n<p>O Frango é uma fonte de diversas substâncias fundamentais para a boa saúde do nosso organismo. É rica em proteínas e com uma pequena quantidade de gorduras saturadas. E são essas gorduras as responsáveis pela maioria dos casos de problemas cardíacos nos dias de hoje. Todos os aminoácidos essenciais estão presentes no frango. É o conjunto destes compostos que formam diversos tipos de proteínas e enzimas.</p>\n<p>O Frango possui uma grande quantidade de vitaminas, principalmente a <strong>Vitamina B</strong>, como a <strong>B2</strong> e a <strong>B12</strong>. Essas vitaminas são essenciais para o <strong>metabolismo celular</strong>, pois atuam em processos energéticos, em funções do <strong>sistema nervoso</strong>, além de serem importantes para estômago, intestino, pele, cabelo, olhos, boca e fígado. A <strong>Vitamina PP</strong> também está presente na carne de frango. Trabalha em processos do sistema respiratório e na dilatação dos vasos sanguíneos. A falta desta vitamina pode levar à <strong>fraqueza muscular</strong>, <strong>estomatite</strong> e <strong>lesões na pele</strong>, entre outros problemas.</p>\n",
+            "image": "https://github.com/lgorgulho/receitasrapidas/media/posts/405/frango.jpg",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Ingredientes"
+            ],
+            "date_published": "2013-06-07T12:55:16+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/pernas-de-frango-no-forno/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/pernas-de-frango-no-forno/",
+            "title": "Pernas de Frango no Forno",
+            "summary": " Receita de Pernas de Frango no Forno Serve: 2 Pessoas Pronto em 30 minutos Ingredientes Preparação Tempo de Preparação: 10 min | Tempo de Cozimento: 20 min Bom apetite!",
+            "content_html": "<p><a href=\"http://www.receitasrapidas.com/aves-3/pernas-de-frango-no-forno/attachment/pernas-de-frango-no-forno/\" rel=\"attachment wp-att-1725\"><img class=\"size-thumbnail wp-image-1725\" alt=\"Receita de Pernas de Frango no Forno\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/404/pernas-de-frango-no-forno-150x150.jpg\" width=\"150\" height=\"150\" /></a> Receita de Pernas de Frango no Forno</p>\n<p>Serve: 2 Pessoas<br />\nPronto em 30 minutos</p>\n<p><strong>Ingredientes</strong></p>\n<ul>\n<li>4 pernas de frango</li>\n<li>1 limão</li>\n<li>2 dentes de alho</li>\n<li>Massa de pimentão</li>\n<li>Vinho branco q.b.</li>\n<li>Sal, colorau e manteiga q.b.</li>\n</ul>\n<p><strong>Preparação</strong><br />\nTempo de Preparação: 10 min | Tempo de Cozimento: 20 min</p>\n<ol>\n<li>Num almofariz, esmague o alho, o sal e o colorau a massa de pimentão, até ficar uma pasta.</li>\n<li>Barre as pernas de frango com o preparado.</li>\n<li>Num recipiente de ir ao forno, coloque as pernas. Deite o vinho e pequenos pedaços de manteiga. Regar com sumo de limão.</li>\n<li>Leve ao forno, previamente aquecido a 200º, até estar tostado.</li>\n</ol>\n<p>Bom apetite!</p>\n",
+            "image": "https://github.com/lgorgulho/receitasrapidas/media/posts/404/pernas-de-frango-no-forno.jpg",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Receitas Aves"
+            ],
+            "date_published": "2013-06-06T08:01:07+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/waffle-americano/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/waffle-americano/",
+            "title": "Waffle Americano",
+            "summary": " Receita de Receita de Waffle Americano Serve: 6 Porções Pronto em 20 minutos Ingredientes Preparação Tempo de Preparação: 10 min | Tempo de Cozimento: 10 min Bom apetite!",
+            "content_html": "<p><a href=\"http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/waffle-americano/attachment/waffle-americano/\" rel=\"attachment wp-att-1721\"><img class=\"size-thumbnail wp-image-1721\" alt=\"Receita de Receita de Waffle Americano\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/403/waffle-americano-150x150.jpg\" width=\"150\" height=\"150\" /></a> Receita de Receita de Waffle Americano</p>\n<p>Serve: 6 Porções<br />\nPronto em 20 minutos</p>\n<p><strong>Ingredientes</strong></p>\n<ul>\n<li>4 ovos</li>\n<li>4 xícaras de chá de leite</li>\n<li>2 colheres de sopa de manteiga</li>\n<li>3 1/2 xícaras de chá de farinha de trigo</li>\n<li>6 colheres de chá de fermento em pó</li>\n<li>1 colher de chá de sal</li>\n</ul>\n<p><strong>Preparação</strong><br />\nTempo de Preparação: 10 min | Tempo de Cozimento: 10 min</p>\n<ol>\n<li>Bater as claras em neve.</li>\n<li>Acrescentar os demais ingredientes, batendo como se fosse bolo.</li>\n<li>Fazer os waffles (utilize uma máquina de waffles)</li>\n<li>Rechear como preferir.</li>\n</ol>\n<p>Bom apetite!</p>\n",
+            "image": "https://github.com/lgorgulho/receitasrapidas/media/posts/403/waffle-americano.jpg",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Receitas Bolos e Tortas Doces",
+                   "Doces e Sobremesas",
+                   "Culinária Americana"
+            ],
+            "date_published": "2013-06-05T13:49:07+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/bolo-podre-alentejano/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/bolo-podre-alentejano/",
+            "title": "Bolo Podre Alentejano",
+            "summary": " Receita de Bolo Podre Alentejano Serve: 8 Porções Pronto em 1 hora e 10 minutos Ingredientes Preparação Tempo de Preparação: 20 min | Tempo de Cozimento: 50 min Bom apetite!",
+            "content_html": "<p><a href=\"http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/bolo-podre-alentejano/attachment/bolo-podre-alentejano/\" rel=\"attachment wp-att-1717\"><img class=\"size-thumbnail wp-image-1717\" alt=\"Receita de Bolo Podre Alentejano\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/402/bolo-podre-alentejano-150x150.jpg\" width=\"150\" height=\"150\" /></a> Receita de Bolo Podre Alentejano</p>\n<p>Serve: 8 Porções<br />\nPronto em 1 hora e 10 minutos</p>\n<p><strong>Ingredientes</strong></p>\n<ul>\n<li>2,5 dl de mel</li>\n<li>2,5 dl de azeite</li>\n<li>7 ovos</li>\n<li>125 g de açúcar</li>\n<li>250 g de farinha de trigo</li>\n<li>1 colher de chá de canela em pó</li>\n<li>1 colher de chá cheia de fermento em pó</li>\n<li>2 colheres de sopa de aguardente velha</li>\n</ul>\n<p><strong>Preparação</strong><br />\nTempo de Preparação: 20 min | Tempo de Cozimento: 50 min</p>\n<ol>\n<li>Misturar o azeite, mel, as gemas de ovos e o açúcar, batendo muito bem cerca de 10 minutos.</li>\n<li>Adicione a aguardente e bata mais um pouco.</li>\n<li>Bata as claras em castelo firme.</li>\n<li>Envolva as claras ao preparado anterior, alternando, com a farinha misturada com a canela e o fermento.</li>\n<li>Deite a massa numa forma grande com chaminé, bem untada com azeite.</li>\n<li>Leve a cozer em forno médio cerca de 50 minutos (convém verificar se está cozido).</li>\n<li>Depois de cozido desenforme o bolo e deixe arrefecer.</li>\n</ol>\n<p>Bom apetite!</p>\n",
+            "image": "https://github.com/lgorgulho/receitasrapidas/media/posts/402/bolo-podre-alentejano.jpg",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Receitas Bolos e Tortas Doces",
+                   "Doces e Sobremesas"
+            ],
+            "date_published": "2013-06-05T08:14:34+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/caracois-a-portuguesa/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/caracois-a-portuguesa/",
+            "title": "Caracóis à portuguesa",
+            "summary": " Receita de Caracóis à Portuguesa Serve: 4 Pessoas Pronto em 2 horas Ingredientes Preparação Tempo de Preparação: 5 min | Tempo de Cozimento: +/- 2horas Bom apetite!",
+            "content_html": "<p><a href=\"http://www.receitasrapidas.com/receitas-petiscos/caracois-a-portuguesa/attachment/caracois/\" rel=\"attachment wp-att-1711\"><img class=\"size-thumbnail wp-image-1711\" alt=\"Receita de Caracóis à Portuguesa\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/401/caracois-150x150.jpg\" width=\"150\" height=\"150\" /></a> Receita de Caracóis à Portuguesa</p>\n<p>Serve: 4 Pessoas<br />\nPronto em 2 horas</p>\n<p><strong>Ingredientes</strong></p>\n<ul>\n<li>2 kg de caracóis</li>\n<li>2 colheres de sopa de azeite</li>\n<li>3 dentes de alho</li>\n<li>1 cebola</li>\n<li>1 folha de Louro</li>\n<li>orégãos</li>\n<li>piripiri em pó qb</li>\n<li>sal e pimenta qb</li>\n</ul>\n<p><strong>Preparação</strong><br />\nTempo de Preparação: 5 min | Tempo de Cozimento: +/- 2horas</p>\n<ol>\n<li>Leve os caracóis ao lume numa panela de água (dois ou três dedos acima dos caracóis).</li>\n<li>Junte o azeite, os alhos, a cebola cortada em quartos, o louro, os orégãos e tempere com sal, pimenta e piripiri.</li>\n<li>A fervura deve ser suave e longa (cerca de 2 horas) e a espuma retirada de vez em quando.</li>\n<li>Conserve-os no líquido da cozedura até a altura de servir. Sirva quente em pratinhos com um pouco de caldo.</li>\n</ol>\n<p>Bom apetite!</p>\n",
+            "image": "https://github.com/lgorgulho/receitasrapidas/media/posts/401/caracois.jpg",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Receitas Petiscos",
+                   "Culinária Portuguesa"
+            ],
+            "date_published": "2013-06-04T14:02:03+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        },
+        {
+            "id": "https://github.com/lgorgulho/receitasrapidas/bolo-de-laranja/",
+            "url": "https://github.com/lgorgulho/receitasrapidas/bolo-de-laranja/",
+            "title": "Bolo de Laranja",
+            "summary": " Receita de Bolo de Laranja Serve: 8 Porções Pronto em 1 hora e 10 minutos Ingredientes Preparação Tempo de Preparação: 20 min | Tempo de Cozimento: 50 min Sugestão: Faça uma calda de açúcar com sumo e cascas de laranja ralada. Deite por cima&hellip;",
+            "content_html": "<p><a href=\"http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/bolo-de-laranja/attachment/bolo-de-laranja/\" rel=\"attachment wp-att-1699\"><img class=\"size-thumbnail wp-image-1699\" alt=\"Receita de Bolo de Laranja\" src=\"https://github.com/lgorgulho/receitasrapidas/media/posts/400/bolo-de-laranja-150x150.jpg\" width=\"150\" height=\"150\" /></a> Receita de Bolo de Laranja</p>\n<p>Serve: 8 Porções<br />\nPronto em 1 hora e 10 minutos</p>\n<p><strong>Ingredientes</strong></p>\n<ul>\n<li>1 colher de chá de fermento em pó</li>\n<li>1 dl de sumo de laranja</li>\n<li>150 g de açúcar</li>\n<li>150 g de manteiga</li>\n<li>250 g de farinha</li>\n<li>5 ovos</li>\n<li>raspas de 1 laranja grande</li>\n</ul>\n<p><strong>Preparação</strong><br />\nTempo de Preparação: 20 min | Tempo de Cozimento: 50 min</p>\n<ol>\n<li>Bata a manteiga com o açúcar até obter um preparado cremoso. de seguida junte os ovos, tendo o cuidado para não deixar absorver completamente o primeiro antes de acrescentar o segundo, e assim sucessivamente.</li>\n<li>Junte a raspa da casca da laranja, sem parar de bater, de seguida o sumo da laranja.</li>\n<li>Misture a farinha e o fermento a cair em neve, com uma colher de pau envolva debaixo para cima.</li>\n<li>Deite o preparado numa forma previamente untada com margarina e polvilhada com farinha.</li>\n<li>Leve a cozer durante 50 minutos (1 hora em forno pré aquecido a 150-180º C).</li>\n<li>O bolo está pronto quando começar a descolar-se das paredes da forma mas deverá verificar a cozedura com um palito na parte mais densa do bolo (se o palito sair seco e limpo, o bolo está cozido).</li>\n</ol>\n<p>Sugestão: Faça uma calda de açúcar com sumo e cascas de laranja ralada. Deite por cima do bolo.</p>\n<p>Bom apetite!</p>\n",
+            "image": "https://github.com/lgorgulho/receitasrapidas/media/posts/400/bolo-de-laranja.jpg",
+            "author": {
+                "name": "Receitas Rápidas"
+            },
+            "tags": [
+                   "Receitas Bolos e Tortas Doces",
+                   "Doces e Sobremesas"
+            ],
+            "date_published": "2013-06-04T09:28:14+01:00",
+            "date_modified": "2020-04-22T01:37:26+01:00"
+        }
+    ]
+}
