@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Receitas Rápidas</title>
-    <link href="https://github.com/lgorgulho/receitasrapidas/feed.xml" rel="self" />
-    <link href="https://github.com/lgorgulho/receitasrapidas" />
-    <updated>2020-04-23T02:11:29+01:00</updated>
+    <link href="https://lgorgulho.github.io/receitasrapidas/feed.xml" rel="self" />
+    <link href="https://lgorgulho.github.io/receitasrapidas" />
+    <updated>2020-04-23T02:27:01+01:00</updated>
     <author>
         <name>Receitas Rápidas</name>
     </author>
-    <id>https://github.com/lgorgulho/receitasrapidas</id>
+    <id>https://lgorgulho.github.io/receitasrapidas</id>
 
     <entry>
         <title>Vouchers Restaurante</title>
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/vouchers-restaurante/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/vouchers-restaurante/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/vouchers-restaurante/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/vouchers-restaurante/</id>
 
         <updated>2020-04-22T01:37:06+01:00</updated>
             <summary>
@@ -46,8 +46,8 @@ var netlucro_afi_kw='Landing-Blog';<br />
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/vouchers-portugal/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/vouchers-portugal/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/vouchers-portugal/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/vouchers-portugal/</id>
 
         <updated>2020-04-22T01:37:06+01:00</updated>
             <summary>
@@ -97,8 +97,8 @@ var netlucro_afi_kw='Landing-Receitas-Site-Vale50Eu';<br />
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/livro-de-receitas/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/livro-de-receitas/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/livro-de-receitas/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/livro-de-receitas/</id>
 
         <updated>2020-04-22T01:37:06+01:00</updated>
             <summary>
@@ -125,8 +125,8 @@ var netlucro_afi_kw='Landing-Page-Imagem336x280';<br />
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/chocolate-cremoso/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/chocolate-cremoso/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/chocolate-cremoso/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/chocolate-cremoso/</id>
             <category term="Receitas de Chocolate"/>
 
         <updated>2020-04-22T01:37:26+01:00</updated>
@@ -137,7 +137,7 @@ var netlucro_afi_kw='Landing-Page-Imagem336x280';<br />
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a title="chocolate" href="https://github.com/lgorgulho/receitasrapidas/media/posts/406/chocolate.gif"><img class="attachment-large " title="Chocolate Cremoso" alt="Chocolate Cremoso" src="https://github.com/lgorgulho/receitasrapidas/media/posts/406/chocolate.gif" width="245" height="300" /></a> Chocolate Cremoso</p>
+                <p><a title="chocolate" href="https://lgorgulho.github.io/receitasrapidas/media/posts/406/chocolate.gif"><img class="attachment-large " title="Chocolate Cremoso" alt="Chocolate Cremoso" src="https://lgorgulho.github.io/receitasrapidas/media/posts/406/chocolate.gif" width="245" height="300" /></a> Chocolate Cremoso</p>
 <p>1 Danete;<br />
 1 Toddynho ou similar;</p>
 <p>Coloque o danete em uma xícara grande, adicione um todinho, aqueça no microondas por 1,30minutos.</p>
@@ -152,21 +152,21 @@ var netlucro_afi_kw='Landing-Page-Imagem336x280';<br />
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/frango/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/frango/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/frango/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/frango/</id>
             <category term="Ingredientes"/>
 
         <updated>2020-04-22T01:37:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/405/frango.jpg" alt="" />
+                        <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/405/frango.jpg" alt="" />
                      Frango O Frango é uma das carnes mais saudavéis para se cozinhar. Ideal para pessoas em manutenção de peso ou até mesmo dietas, é uma carne branca com baixo teor de gorduras. O Frango é uma fonte de diversas substâncias fundamentais para a boa&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/405/frango.jpg" alt="" />
-                <p><a href="http://www.receitasrapidas.com/ingredientes/frango/attachment/frango/" rel="attachment wp-att-1740"><img class="size-medium wp-image-1740" alt="Frango" src="https://github.com/lgorgulho/receitasrapidas/media/posts/405/frango-300x225.jpg" width="300" height="225" /></a> Frango</p>
+                    <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/405/frango.jpg" alt="" />
+                <p><a href="http://www.receitasrapidas.com/ingredientes/frango/attachment/frango/" rel="attachment wp-att-1740"><img class="size-medium wp-image-1740" alt="Frango" src="https://lgorgulho.github.io/receitasrapidas/media/posts/405/frango-300x225.jpg" width="300" height="225" /></a> Frango</p>
 <p>O <strong>Frango</strong> é uma das carnes mais saudavéis para se <strong>cozinhar</strong>. Ideal para pessoas em manutenção de peso ou até mesmo <strong>dietas</strong>, é uma carne branca com <strong>baixo teor de gorduras</strong>.</p>
 <p>O Frango é uma fonte de diversas substâncias fundamentais para a boa saúde do nosso organismo. É rica em proteínas e com uma pequena quantidade de gorduras saturadas. E são essas gorduras as responsáveis pela maioria dos casos de problemas cardíacos nos dias de hoje. Todos os aminoácidos essenciais estão presentes no frango. É o conjunto destes compostos que formam diversos tipos de proteínas e enzimas.</p>
 <p>O Frango possui uma grande quantidade de vitaminas, principalmente a <strong>Vitamina B</strong>, como a <strong>B2</strong> e a <strong>B12</strong>. Essas vitaminas são essenciais para o <strong>metabolismo celular</strong>, pois atuam em processos energéticos, em funções do <strong>sistema nervoso</strong>, além de serem importantes para estômago, intestino, pele, cabelo, olhos, boca e fígado. A <strong>Vitamina PP</strong> também está presente na carne de frango. Trabalha em processos do sistema respiratório e na dilatação dos vasos sanguíneos. A falta desta vitamina pode levar à <strong>fraqueza muscular</strong>, <strong>estomatite</strong> e <strong>lesões na pele</strong>, entre outros problemas.</p>
@@ -179,21 +179,21 @@ var netlucro_afi_kw='Landing-Page-Imagem336x280';<br />
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/pernas-de-frango-no-forno/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/pernas-de-frango-no-forno/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/pernas-de-frango-no-forno/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/pernas-de-frango-no-forno/</id>
             <category term="Receitas Aves"/>
 
         <updated>2020-04-22T01:37:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/404/pernas-de-frango-no-forno.jpg" alt="" />
+                        <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/404/pernas-de-frango-no-forno.jpg" alt="" />
                      Receita de Pernas de Frango no Forno Serve: 2 Pessoas Pronto em 30 minutos Ingredientes Preparação Tempo de Preparação: 10 min | Tempo de Cozimento: 20 min Bom apetite!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/404/pernas-de-frango-no-forno.jpg" alt="" />
-                <p><a href="http://www.receitasrapidas.com/aves-3/pernas-de-frango-no-forno/attachment/pernas-de-frango-no-forno/" rel="attachment wp-att-1725"><img class="size-thumbnail wp-image-1725" alt="Receita de Pernas de Frango no Forno" src="https://github.com/lgorgulho/receitasrapidas/media/posts/404/pernas-de-frango-no-forno-150x150.jpg" width="150" height="150" /></a> Receita de Pernas de Frango no Forno</p>
+                    <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/404/pernas-de-frango-no-forno.jpg" alt="" />
+                <p><a href="http://www.receitasrapidas.com/aves-3/pernas-de-frango-no-forno/attachment/pernas-de-frango-no-forno/" rel="attachment wp-att-1725"><img class="size-thumbnail wp-image-1725" alt="Receita de Pernas de Frango no Forno" src="https://lgorgulho.github.io/receitasrapidas/media/posts/404/pernas-de-frango-no-forno-150x150.jpg" width="150" height="150" /></a> Receita de Pernas de Frango no Forno</p>
 <p>Serve: 2 Pessoas<br />
 Pronto em 30 minutos</p>
 <p><strong>Ingredientes</strong></p>
@@ -223,8 +223,8 @@ Tempo de Preparação: 10 min | Tempo de Cozimento: 20 min</p>
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/waffle-americano/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/waffle-americano/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/waffle-americano/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/waffle-americano/</id>
             <category term="Receitas Bolos e Tortas Doces"/>
             <category term="Doces e Sobremesas"/>
             <category term="Culinária Americana"/>
@@ -232,14 +232,14 @@ Tempo de Preparação: 10 min | Tempo de Cozimento: 20 min</p>
         <updated>2020-04-22T01:37:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/403/waffle-americano.jpg" alt="" />
+                        <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/403/waffle-americano.jpg" alt="" />
                      Receita de Receita de Waffle Americano Serve: 6 Porções Pronto em 20 minutos Ingredientes Preparação Tempo de Preparação: 10 min | Tempo de Cozimento: 10 min Bom apetite!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/403/waffle-americano.jpg" alt="" />
-                <p><a href="http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/waffle-americano/attachment/waffle-americano/" rel="attachment wp-att-1721"><img class="size-thumbnail wp-image-1721" alt="Receita de Receita de Waffle Americano" src="https://github.com/lgorgulho/receitasrapidas/media/posts/403/waffle-americano-150x150.jpg" width="150" height="150" /></a> Receita de Receita de Waffle Americano</p>
+                    <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/403/waffle-americano.jpg" alt="" />
+                <p><a href="http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/waffle-americano/attachment/waffle-americano/" rel="attachment wp-att-1721"><img class="size-thumbnail wp-image-1721" alt="Receita de Receita de Waffle Americano" src="https://lgorgulho.github.io/receitasrapidas/media/posts/403/waffle-americano-150x150.jpg" width="150" height="150" /></a> Receita de Receita de Waffle Americano</p>
 <p>Serve: 6 Porções<br />
 Pronto em 20 minutos</p>
 <p><strong>Ingredientes</strong></p>
@@ -269,22 +269,22 @@ Tempo de Preparação: 10 min | Tempo de Cozimento: 10 min</p>
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/bolo-podre-alentejano/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/bolo-podre-alentejano/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/bolo-podre-alentejano/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/bolo-podre-alentejano/</id>
             <category term="Receitas Bolos e Tortas Doces"/>
             <category term="Doces e Sobremesas"/>
 
         <updated>2020-04-22T01:37:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/402/bolo-podre-alentejano.jpg" alt="" />
+                        <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/402/bolo-podre-alentejano.jpg" alt="" />
                      Receita de Bolo Podre Alentejano Serve: 8 Porções Pronto em 1 hora e 10 minutos Ingredientes Preparação Tempo de Preparação: 20 min | Tempo de Cozimento: 50 min Bom apetite!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/402/bolo-podre-alentejano.jpg" alt="" />
-                <p><a href="http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/bolo-podre-alentejano/attachment/bolo-podre-alentejano/" rel="attachment wp-att-1717"><img class="size-thumbnail wp-image-1717" alt="Receita de Bolo Podre Alentejano" src="https://github.com/lgorgulho/receitasrapidas/media/posts/402/bolo-podre-alentejano-150x150.jpg" width="150" height="150" /></a> Receita de Bolo Podre Alentejano</p>
+                    <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/402/bolo-podre-alentejano.jpg" alt="" />
+                <p><a href="http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/bolo-podre-alentejano/attachment/bolo-podre-alentejano/" rel="attachment wp-att-1717"><img class="size-thumbnail wp-image-1717" alt="Receita de Bolo Podre Alentejano" src="https://lgorgulho.github.io/receitasrapidas/media/posts/402/bolo-podre-alentejano-150x150.jpg" width="150" height="150" /></a> Receita de Bolo Podre Alentejano</p>
 <p>Serve: 8 Porções<br />
 Pronto em 1 hora e 10 minutos</p>
 <p><strong>Ingredientes</strong></p>
@@ -319,22 +319,22 @@ Tempo de Preparação: 20 min | Tempo de Cozimento: 50 min</p>
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/caracois-a-portuguesa/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/caracois-a-portuguesa/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/caracois-a-portuguesa/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/caracois-a-portuguesa/</id>
             <category term="Receitas Petiscos"/>
             <category term="Culinária Portuguesa"/>
 
         <updated>2020-04-22T01:37:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/401/caracois.jpg" alt="" />
+                        <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/401/caracois.jpg" alt="" />
                      Receita de Caracóis à Portuguesa Serve: 4 Pessoas Pronto em 2 horas Ingredientes Preparação Tempo de Preparação: 5 min | Tempo de Cozimento: +/- 2horas Bom apetite!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/401/caracois.jpg" alt="" />
-                <p><a href="http://www.receitasrapidas.com/receitas-petiscos/caracois-a-portuguesa/attachment/caracois/" rel="attachment wp-att-1711"><img class="size-thumbnail wp-image-1711" alt="Receita de Caracóis à Portuguesa" src="https://github.com/lgorgulho/receitasrapidas/media/posts/401/caracois-150x150.jpg" width="150" height="150" /></a> Receita de Caracóis à Portuguesa</p>
+                    <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/401/caracois.jpg" alt="" />
+                <p><a href="http://www.receitasrapidas.com/receitas-petiscos/caracois-a-portuguesa/attachment/caracois/" rel="attachment wp-att-1711"><img class="size-thumbnail wp-image-1711" alt="Receita de Caracóis à Portuguesa" src="https://lgorgulho.github.io/receitasrapidas/media/posts/401/caracois-150x150.jpg" width="150" height="150" /></a> Receita de Caracóis à Portuguesa</p>
 <p>Serve: 4 Pessoas<br />
 Pronto em 2 horas</p>
 <p><strong>Ingredientes</strong></p>
@@ -366,22 +366,22 @@ Tempo de Preparação: 5 min | Tempo de Cozimento: +/- 2horas</p>
         <author>
             <name>Receitas Rápidas</name>
         </author>
-        <link href="https://github.com/lgorgulho/receitasrapidas/bolo-de-laranja/"/>
-        <id>https://github.com/lgorgulho/receitasrapidas/bolo-de-laranja/</id>
+        <link href="https://lgorgulho.github.io/receitasrapidas/bolo-de-laranja/"/>
+        <id>https://lgorgulho.github.io/receitasrapidas/bolo-de-laranja/</id>
             <category term="Receitas Bolos e Tortas Doces"/>
             <category term="Doces e Sobremesas"/>
 
         <updated>2020-04-22T01:37:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/400/bolo-de-laranja.jpg" alt="" />
+                        <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/400/bolo-de-laranja.jpg" alt="" />
                      Receita de Bolo de Laranja Serve: 8 Porções Pronto em 1 hora e 10 minutos Ingredientes Preparação Tempo de Preparação: 20 min | Tempo de Cozimento: 50 min Sugestão: Faça uma calda de açúcar com sumo e cascas de laranja ralada. Deite por cima&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/lgorgulho/receitasrapidas/media/posts/400/bolo-de-laranja.jpg" alt="" />
-                <p><a href="http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/bolo-de-laranja/attachment/bolo-de-laranja/" rel="attachment wp-att-1699"><img class="size-thumbnail wp-image-1699" alt="Receita de Bolo de Laranja" src="https://github.com/lgorgulho/receitasrapidas/media/posts/400/bolo-de-laranja-150x150.jpg" width="150" height="150" /></a> Receita de Bolo de Laranja</p>
+                    <img src="https://lgorgulho.github.io/receitasrapidas/media/posts/400/bolo-de-laranja.jpg" alt="" />
+                <p><a href="http://www.receitasrapidas.com/doces-e-sobremesas/bolos-e-tortas-doces/bolo-de-laranja/attachment/bolo-de-laranja/" rel="attachment wp-att-1699"><img class="size-thumbnail wp-image-1699" alt="Receita de Bolo de Laranja" src="https://lgorgulho.github.io/receitasrapidas/media/posts/400/bolo-de-laranja-150x150.jpg" width="150" height="150" /></a> Receita de Bolo de Laranja</p>
 <p>Serve: 8 Porções<br />
 Pronto em 1 hora e 10 minutos</p>
 <p><strong>Ingredientes</strong></p>
